@@ -1,2 +1,4 @@
-# Understanding-Uncertainty-Assignment-1
-Short "warm-up" activity that includes some Pandas and Git.
+Understanding Uncertainty Assignments
+Assignment 1: 9/5
+Assignment 2: 9/12-9/14
+Assignment 3: 9/23
